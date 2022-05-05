@@ -1,3 +1,3 @@
-# WIP: Omar Abdelbadie
+# Omar Abdelbadie (wip)
 
 Data & ML Engineering Consultant
